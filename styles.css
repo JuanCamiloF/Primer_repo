@@ -1,0 +1,319 @@
+*{
+    margin:0;
+    padding: 0;
+   
+}
+
+
+
+
+#NOSOTROS{
+    background:url(imagen01.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    overflow:hidden;
+   
+    
+}
+  
+   
+header{
+    background: url(Imagen1.jpg) no-repeat;
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+    
+}
+
+
+
+.inicio{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 300px;
+    width: 90vw;
+
+}
+
+
+
+
+
+.inicio a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    margin: 10px;
+    justify-content: space-between;
+    color:white;
+    -webkit-transition:all 2s ease;
+    -o-transition: all 2s ease;
+    transition: all 2s ease;
+    padding: 4px 5px;
+    border-radius: 20px;
+    background: rgba(22, 109, 167, 0.603);
+    overflow: hidden;
+
+   
+}
+
+
+
+
+ 
+
+header a:hover{
+    background: rgb(23, 187, 72);
+    
+  
+}
+
+#NOSOTROS{
+    height: 100%;
+    padding-bottom: 45px;
+}
+
+#text0{
+    margin: 30px 40px;
+    margin-top: 150px;
+}
+
+#text0 h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 20px ;
+    margin-bottom: 55px;
+}
+
+
+#text0 p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: justify;
+}
+
+
+.text{
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+   
+
+    
+}
+
+#text1{
+    border-radius: 18px;
+    width: 350px;
+    background: rgba(240, 133, 133, 0.226);
+    margin:45px;
+    
+
+   
+    
+}
+
+#text1 h2{
+    padding-top: 5px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+#text1 p{
+    padding: 20px;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size:10px;
+ text-align: justify;
+ max-width: 300px;
+ 
+}
+
+/*.....seccion 2....*/
+
+#SERVICIOS{
+    background: url(IMAGEN4.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+    overflow:hidden;
+    
+}
+
+
+.imagen1{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    width: 50%;
+    border-radius: 30px;
+    margin-top: 25px;
+}
+
+
+#cartas{
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+    margin-bottom: 150px;
+}
+
+#carta1{
+    background: rgba(73, 235, 168, 0.459);
+    max-width: 400px;
+    border-radius: 50px;
+    margin: 40px;
+    padding-bottom: 60px;
+   
+}
+
+#carta1 h2{
+    text-align: center;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+}
+
+ #carta1 a{
+    display:flex;
+    border-radius: 10px;
+    justify-content: center;
+     background: rgba(212, 66, 56, 0.5);
+     text-decoration: none;
+     padding: 10px 20px;
+     color: white;
+     font-family:cursive;
+     font-size: 10px;
+     width: 50%;
+     margin: 0 auto;
+     
+ }
+
+
+/*subpagina*/
+
+
+
+#tarifa{
+    justify-content: center;
+    width: 600px;
+    height: auto;
+    display: flex;
+    
+
+}
+
+.tar{
+    color: white;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin-top: 150px;
+    text-align: justify;
+    margin-right: 300px;
+    border-radius: 30px;
+    padding: 5px 20px;
+    -webkit-transition:all 2s ease;
+    -o-transition: all 2s ease;
+    transition: all 2s ease;
+    padding: 4px 12px;
+    overflow: hidden;
+    background: rgb(75, 219, 207);
+
+}
+
+#pag2{
+    background:url(imagen01.jpeg);
+    background-attachment: fixed;
+    background-size: cover;
+
+    
+}
+
+#text3{
+    text-align: justify;
+    margin: 90px 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 18px;
+}
+
+#text3 h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+#text3 p{
+margin-top: 70px;
+}
+
+ul{
+list-style-type: none;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
+#text4{
+    text-align: justify;
+    margin: 90px 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 18px;
+}
+
+#text4 h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-size: 20px;
+}
+
+#text4 p{
+    margin-top: 70px;
+    }
+
+
+    #CONTACTO{
+        background: url(imagen01.jpeg);
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    #CONTACTO p{
+
+        font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        padding-top: 90px;
+    }
+
+@media (min-width:952px){
+    
+    .inicio a{
+        font-size: 20px;
+        padding: 4px 8px;
+    }
+    #text1 h2{
+        padding-top: 30px;
+        font-size: 40px;
+    }
+
+    #text1 p{
+        font-size: 14px;
+    }
+
+    #carta1 a{
+        font-size: 14px;
+    }
+
+   
+
+    #carta1 h2{
+        font-size: 20px;
+    }
+}
+    
